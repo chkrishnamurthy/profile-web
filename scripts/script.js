@@ -12,3 +12,4 @@ function getAge(dateString)
 }
 
  document.querySelector("#age").textContent = getAge("May 09, 1996");
+//  document.querySelector("#age").textContent = getAge("May 09, 1996");
